@@ -1,7 +1,7 @@
-#Holberton School Project 4 "GitHub"
+# Holberton School Project 4 "GitHub"
 
 ---
-##This project learn us how to use Git and GitHub, in this project we learn :
+## This project learn us how to use Git and GitHub, in this project we learn :
 * What is source code management
 * What is Git
 * What is GitHub
@@ -18,7 +18,7 @@
 * How to work as collaborators on a project
 * Which files should and which files should not appear in your repo
 ---
-##Tasks:
+## Tasks:
 * 0. Create and setup your Git and GitHub account
 * 1. Repo-session
 * 2. Coding fury road
